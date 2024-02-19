@@ -1,0 +1,77 @@
+img.image1 {
+    width: 30%;
+}
+
+img.image2{
+    width: 100px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+  div.divone {
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+  }
+
+  div.divtwo {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(255, 238, 0);
+  }
+
+  table, th, td {
+    border: 1px solid;
+  }
+
+  body.home{
+    background-color: aquamarine;
+  }
+
+  body.contacts{
+    background-color: bisque;
+  }
+
+  body.aboutus{
+    background-color: blue;
+  }
+
+body.products{
+    background-color: rgb(189, 25, 25);
+}
+
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  p {
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
